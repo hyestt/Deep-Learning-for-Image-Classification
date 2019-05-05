@@ -3,6 +3,8 @@ Build an image classifier with Keras and Convolutional Neural Networks for the F
 
 ** Example **
 
-![alt text](https://github.com/hyestt/Anamoly_detection/blob/master/ROC.png)
+![alt text](https://github.com/hyestt/Deep-Learning-for-Image-Classification/blob/master/shoes.png)
 
-![alt text](https://github.com/hyestt/Anamoly_detection/blob/master/ROC.png)
+** Final predicted score **
+
+![alt text](https://github.com/hyestt/Deep-Learning-for-Image-Classification/blob/master/Score.png)
